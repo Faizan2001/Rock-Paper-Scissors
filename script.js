@@ -5,4 +5,4 @@ return list[Math.floor(Math.random()*list.length)];
 }
 
 
-console.log(getComputerChoice(["rock", "paper", "scissors"]))
+console.log(getComputerChoice(["Rock", "Paper", "Scissors"]))
