@@ -1,0 +1,28 @@
+body {
+
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    
+
+}
+
+div {
+    padding: 12px;
+}
+
+.buttons {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    
+
+}
+
+
